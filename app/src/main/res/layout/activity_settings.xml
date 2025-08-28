@@ -211,7 +211,7 @@
                 android:layout_marginStart="16dp"
                 android:layout_marginBottom="16dp"
                 android:paddingRight="8dp"
-                android:text="About application and it's source code..."
+                android:text="About application and its source code..."
                 android:textColor="#8D8D8D"
                 app:layout_constraintBottom_toBottomOf="parent"
                 app:layout_constraintStart_toEndOf="@+id/imageViewAbout"
